@@ -1,0 +1,20 @@
+
+
+div {
+    display: inline-block;
+  }
+.myphotu{
+float: left;
+background-color: aquamarine;
+width: 10%;
+}
+.about{
+    font-style: italic;
+    float: right;
+    align-items:end;
+}
+img{
+    border-radius: 40%;
+    width: 10%;
+    float: left;
+}

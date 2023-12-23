@@ -1,0 +1,26 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    background-color: azure;
+    color: black ;
+}
+.sone{
+    background-color: azure;
+}
+.stwo{
+    background-color: azure;
+}
+.sthree{
+    background-color: azure;
+}
+
+
+.align-items-center {
+    align-items: center!important;
+}
+.d-flex {
+    display: flex!important;
+}
+html, body {
+    height: 100%;
+}

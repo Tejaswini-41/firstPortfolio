@@ -1,0 +1,25 @@
+div {
+    height: 200px;
+    width: 200px ;
+}
+p{
+    margin: 0px;
+}
+#B1{
+    background-color: cadetblue;
+    padding: 20px;
+    border: 10px solid black;
+}
+
+#B2{
+    background-color: gold;
+    border: solid black;
+    border-width: 20px 10px;
+    margin-left: 260px;
+}
+
+#B3{
+    background-color: indianred;
+    margin-left: 40px;
+    border: 10px solid black;
+}
